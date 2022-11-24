@@ -1,0 +1,57 @@
+Country,Category,Time (minutes)
+Australia,Paid work,211
+Australia,Housework,132
+Australia,Shopping,29
+Australia,Sleep,512
+Australia,Eating and drinking,89
+Australia,Personal care,56
+Australia,TV and Radio,140
+Belgium,Paid work,194
+Belgium,Housework,121
+Belgium,Shopping,29
+Belgium,Sleep,513
+Belgium,Eating and drinking,99
+Belgium,Personal care,53
+Belgium,TV and Radio,131
+Canada,Paid work,269
+Canada,Housework,115
+Canada,Shopping,24
+Canada,Sleep,520
+Canada,Eating and drinking,65
+Canada,Personal care,52
+Canada,TV and Radio,109
+China,Paid work,315
+China,Housework,103
+China,Shopping,20
+China,Sleep,542
+China,Eating and drinking,100
+China,Personal care,52
+China,TV and Radio,127
+France,Paid work,170
+France,Housework,129
+France,Shopping,22
+France,Sleep,513
+France,Eating and drinking,133
+France,Personal care,107
+France,TV and Radio,114
+Japan,Paid work,326
+Japan,Housework,80
+Japan,Shopping,25
+Japan,Sleep,442
+Japan,Eating and drinking,93
+Japan,Personal care,85
+Japan,TV and Radio,103
+Korea,Paid work,288
+Korea,Housework,76
+Korea,Shopping,13
+Korea,Sleep,471
+Korea,Eating and drinking,117
+Korea,Personal care,90
+Korea,TV and Radio,102
+USA,Paid work,251
+USA,Housework,100
+USA,Shopping,22
+USA,Sleep,528
+USA,Eating and drinking,63
+USA,Personal care,57
+USA,TV and Radio,148
